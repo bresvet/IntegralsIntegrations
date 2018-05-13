@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/integrals_ingerations.dir/main.cpp.o  -o integrals_ingerations 
